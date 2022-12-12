@@ -2,7 +2,9 @@
 title: "time series forecast peak shaving"
 author: "Gabrielle Nyirjesy"
 date: '2022-12-03'
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
